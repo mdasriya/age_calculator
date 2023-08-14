@@ -1,6 +1,6 @@
 Age Calculator App
 
-
+https://age-calculator-puce-iota.vercel.app/
 The Age Calculator App is a simple and intuitive mobile application designed to quickly and accurately calculate a person's age based on their birthdate. Whether you're curious about your own age or need to calculate the age of someone else, this app provides a convenient and hassle-free way to get accurate age results.
 
 Features
@@ -33,5 +33,4 @@ The Age Calculator App is available for both iOS and Android devices, ensuring a
 Feedback and Support
 We welcome your feedback and suggestions to improve the Age Calculator App. If you encounter any issues or have ideas for new features, please reach out to our support team at support@agecalculatorapp.com.
 
-Download
-You can download the Age Calculator App for free from the App Store or Google Play Store.
+
